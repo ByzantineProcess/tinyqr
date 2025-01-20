@@ -16,3 +16,5 @@ That got me to 2.8 KB, just enough for a CLI to wrap the project up.
 
 # how to use
 reading binary QRs on windows is kinda difficult. so, there should be either a plain old exe build in the releases section, or further instructions below on how to do it properly.
+
+also, run it from a command prompt, don't double click it.
